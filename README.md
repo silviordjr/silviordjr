@@ -41,6 +41,6 @@
   <a href='https://www.facebook.com/silviodiasjunior.shibe' target="_blank"><img aligin='center' alt='FACEBOOK' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" /></a>
   <a href='https://www.linkedin.com/in/silvio-dias-junior/' target='_blank'><img aligin='center' alt='LINKEDIN' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   <a href='https://twitter.com/silviordjr' target='_blank'><img aligin='center' alt='TWITTER' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
-  <a href='https://www.instagram.com/silviordjr/' target='_blank'><img aligin='center' alt='INSTAGRAM' height='30' width='40' src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+  <a href='https://www.instagram.com/silviordjr/' target='_blank'><img aligin='center' alt='INSTAGRAM' height='30' width='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 </div>
   

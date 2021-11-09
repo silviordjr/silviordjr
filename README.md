@@ -43,13 +43,23 @@
   <a href='https://twitter.com/silviordjr' target='_blank'><img aligin='center' alt='TWITTER' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
   <a href='https://www.instagram.com/silviordjr/' target='_blank'><img aligin='center' alt='INSTAGRAM' height='30' width='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 </div>
+<h2>Sobre Mim</h2>
+<div>
+    <p>Sou Engenheiro de Petróleo formado pela Universidade Federal de Alagoas. Durante minha trajetória acadêmica realizei trabalhos de iniciação científica na área de perfuração de poços de petróleo, onde conheci e trabalhei com Python. E assim se iniciou meu crescente interesse pela área de tecnologia. Desde então, busco sempre aprofundar meus conhecimentos, além de aprender novas tecnologias. Hoje, desenvolvo com:  HTML, CSS, Javascript, React.js, Node.js, TypeScript, MySQL, AWS e Python, além de ter experiência com Git e Github.</p>
+  
+  <p>Atualmente, estou no bootcamp de Desenvolvimento Web Full Stack da Labenu, afim de aprimorar meus conhecimentos tanto do front-end quanto do back-end, além de desenvolver projetos e desafios -- individuais e em grupo -- que visam a construção de um profissional da área de tecnologia.</p> 
+</div>
 <h2>Contato</h2>
+<p>
+  Tenho interesse em novas conexões. Sinta-se à vontade para me contatar caso eu possa ajudar em algo, ou mesmo para conversar sobre o mundo da tecnologia.
+</p>
+
 <div>
   <a target="_blank" href="mailto:silviordjr@outlook.com">
-    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" alt="Gmail" height='30' width='40'  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5582982285171">
-    <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+    <img align="left" alt="Whatsapp" height='30' width='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
   </a>
 </div>
   

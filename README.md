@@ -43,4 +43,14 @@
   <a href='https://twitter.com/silviordjr' target='_blank'><img aligin='center' alt='TWITTER' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
   <a href='https://www.instagram.com/silviordjr/' target='_blank'><img aligin='center' alt='INSTAGRAM' height='30' width='40' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 </div>
+<h2>Contato</h2>
+<div>
+  <a target="_blank" href="mailto:silviordjr@outlook.com">
+    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=5582982285171">
+    <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  </a>
+</div>
+  
   
